@@ -24,7 +24,7 @@ This project analyzes ~540K transactions from a UK-based online retailer (Kaggle
  
 1. **Who are our customers, behaviorally?** — RFM segmentation
 2. **Who's about to leave?** — Supervised churn prediction with explainability
-3. **What is each customer actually worth?** — Probabilistic lifetime value forecasting.
+3. **What is each customer actually worth?** — Probabilistic lifetime value forecasting
 
 The result is packaged into a 3-tab Streamlit dashboard usable by a non-technical stakeholder, backed by a fully reproducible modeling pipeline.
  
